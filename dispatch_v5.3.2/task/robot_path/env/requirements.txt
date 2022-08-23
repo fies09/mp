@@ -1,0 +1,19 @@
+# 路径规划PC部署python环境文档
+#------------------------
+# 版本：V5.3.2
+# 更新日期：20220517
+# 基础版本：python3.6.9
+# 清华源：https://pypi.tuna.tsinghua.edu.cn/simple
+# pip>=20.1.1
+#------------------------
+
+pyyaml == 6.0
+pandas == 0.22.0
+numpy == 1.19.5
+pymysql == 1.0.2
+
+# 服务所需
+#flask == 2.0.1
+#flask_cors == 3.0.10
+
+

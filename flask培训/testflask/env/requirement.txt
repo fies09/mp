@@ -1,0 +1,16 @@
+# python3.6.9
+# 清华源 https://pypi.tuna.tsinghua.edu.cn/simple
+
+# flask服务布局
+flask==2.0.1
+
+# 跨域问题
+flask-cors==3.0.10
+
+# 部署
+gunicorn==20.1.0
+gevent==21.12.0
+
+
+# 请求端口
+requests==2.25.1
